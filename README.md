@@ -1,4 +1,4 @@
-# woby-styled
+# @woby/styled
 
 Styled/css library designed for Voby
 
@@ -15,7 +15,7 @@ This library inspired by styled-component, @emotion and supoort Tailwind Css
 ### NPM
 
 ```bash
-pnpm add woby-styled
+pnpm add @woby/styled
 ```
 
 ## Usage
