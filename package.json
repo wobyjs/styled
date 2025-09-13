@@ -37,7 +37,7 @@
         "class",
         "className",
         "woby",
-        "woby-styled"
+        "@woby/styled"
     ],
     "license": "MIT",
     "peerDependencies": {
@@ -51,7 +51,7 @@
         "vite": "^6.1.0"
     },
     "author": "Chi Chong <wongchichong@gmail.com>",
-    "homepage": "https://github.com/wongchichong/styled@^",
+    "homepage": "https://github.com/wobyjs/styled@^",
     "repository": {
         "type": "git",
         "url": "git@github.com:wongchichong/styled.git"
